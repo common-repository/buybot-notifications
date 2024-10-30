@@ -1,0 +1,35 @@
+.shorcode_area { float: left;}
+
+textarea#sms_order_hold{float: left;}
+
+.shorcode_area {float: left; width: 35%; position: relative;}
+
+.shortcode {cursor: pointer; background: #ddd; width: 157px; height: 40px; text-align: center; line-height: 40px;
+    border-radius: 4px; color: #000; font-size: 14px; text-transform: uppercase; font-weight: 600; letter-spacing: 2px;
+}
+
+.shorcode_area { float: left; width: 35%; margin: 0 4%;}
+
+ul.ul-table { width: 277px; background: white; padding: 11px; box-shadow: 0px 0px 2px 0px grey; position: absolute;
+    z-index: 9; }
+
+ul.ul-table li p { font-weight: 700; font-size: 13px; margin-top: 0;}
+
+span.title { font-weight: 500; padding-right: 7px; }
+
+ul.ul-table span { float: left; width: 47%; }
+
+ul.ul-table p::after { content: ""; display: block; clear: both; }
+
+.smscounter {display:inline-block;margin-left:5px;	padding:2px 5px 0px 5px;background:#ffffff;border:1px solid #cccccc;
+	min-width:25px;	text-align:center;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+
+span#sms_order_hold_manual_message_sms_text_cntr {margin-top: 41px;}
+
+body p.variable_parameters { font-size: 10px !important; font-weight: 700; margin-top: 12px; width: 397px; 
+    line-height: 16px; }
+
+p.variable_parameters span { font-size: 13px; text-transform: capitalize; font-weight: 400; padding-right: 3px; }
+
+p.variable_parameters::before { content: ""; display: block; clear: both; }
+span.apikeys {  margin-left: 10px; }
